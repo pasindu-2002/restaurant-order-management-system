@@ -24,13 +24,13 @@ This sample application containg folowing main components.
 1. Clone the repository using the following command.
 
 ```bash
-   git clone https://github.com/SasinduDilshara/hotel_order_service.git
+   git clone https://github.com/SasinduDilshara/restaurant-order-management-system.git
 ```
 
-2. Navigate to `hotel_order_service` directory.
+2. Navigate to `restaurant-order-management-system` directory.
 
 ```bash
-    cd hotel_order_service
+    cd restaurant-order-management-system
 ```
 
 3.There are three services under the `hotel_order_service` directory. These are the `menu_service`, `order_service` and `gateway_service`.
